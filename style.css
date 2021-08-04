@@ -1,0 +1,21 @@
+h1 {
+    color: white;
+    background-color: teal;
+    margin: 5px;
+  }
+
+.box {
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+    margin-left: 65%;
+    color: teal;
+  }
+
+  .sidebar {
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+    margin-left: 50%;
+    color: teal;
+  }
