@@ -1,4 +1,4 @@
-h1 {
+.home {
     color: white;
     background-color: teal;
     margin: 5px;
@@ -20,3 +20,12 @@ h1 {
     margin-left: 50%;
     color: teal;
   }
+  body {
+    background-color: lightgray;
+  }
+
+  .mynav {
+    background-color: white;
+    color: darkgray;
+  }
+  
